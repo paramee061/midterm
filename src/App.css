@@ -1,0 +1,10 @@
+.link {
+  color: white;
+}
+.link:hover {
+  color: yellow;
+}
+.table-hover tbody tr:hover td,
+.table-hover tbody tr:hover th {
+  background-color: rgb(255, 244, 183);
+}
